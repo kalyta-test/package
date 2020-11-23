@@ -1,0 +1,21 @@
+{
+    "name": "kalyta/package",
+    "description": "Test package",
+    "type": "library",
+    "license": "Apache License",
+    "authors": [
+        {
+            "name": "Liuba Kalyta",
+            "email": "liuba.kalyta@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "KalytaTest\\Package\\": "src/App"
+        }
+    },
+    "minimum-stability": "dev"
+}
