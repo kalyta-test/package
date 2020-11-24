@@ -2,7 +2,7 @@
     "name": "kalyta/package",
     "description": "Test package",
     "type": "library",
-    "license": "Apache License",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Liuba Kalyta",
