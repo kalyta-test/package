@@ -2,7 +2,7 @@
     "name": "kalyta/package",
     "description": "Test package",
     "type": "library",
-    "license": "MIT",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Liuba Kalyta",
