@@ -5,7 +5,7 @@
  * @author    Liuba Kalyta <kalyta@dotsplatform.com>
  */
 
-namespace KalytaTest\Package\App;
+namespace KalytaTest\Package;
 
 class Test
 {
